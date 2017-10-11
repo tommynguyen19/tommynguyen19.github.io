@@ -1,0 +1,40 @@
+h1 { color: brown }
+
+body{ 
+	background: beige;
+	color: darkblue;
+	font-size: 14pt;
+	font-family: 'Noto-Serif', sans-serif;
+}
+
+
+h1 { 
+	font-size 250%;
+	font-weight: bold;
+	color: black
+}
+
+h2 {
+	font-size 150%;
+	font-style: italic
+
+	
+}
+
+nav li { 
+	display : inline-block;
+	border: 2px solid black; 
+	padding: 10px;
+	margin: 5px;
+background: lightblue}
+	
+	a {color: brown;
+	text-decoration: none;}
+	
+a:hover {color: blue
+
+
+}
+
+.title {font-weight: bold;
+text-decoration: underline;}
